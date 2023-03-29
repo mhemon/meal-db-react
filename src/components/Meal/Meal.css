@@ -1,0 +1,10 @@
+.singleMeal{
+    border: 2px solid gainsboro;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.singleMeal img{
+    width: 100%;
+    border-radius: 20px;
+}
